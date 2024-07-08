@@ -2,7 +2,7 @@
   "name": "my-vitejs-ci-cd-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://agiledev9338.github.io/my-vitejs-ci-cd-app",
+  "homepage": "https://agiledev9338.github.io/reactjs-ci-cd-test",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d build",
